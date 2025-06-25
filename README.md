@@ -1,5 +1,4 @@
-SkyLink Airlines: International Expansion Strategy
-BCG Winter Case Competition 2025
+SkyLink Airlines: International Expansion Strategy - BCG Winter Case Competition 2025
 
 This project presents a strategic international expansion plan for SkyLink Airlines, developed as part of the BCG Winter Case Competition 2025. The team assessed a range of international markets using structured entry criteria and identified Colombia as the strongest option for a pilot entry, based on tourism demand, operational feasibility and competitive dynamics.
 
